@@ -15,7 +15,7 @@ google_analytics: [Your Google Analytics tracking ID]
 # Build settings
 
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
