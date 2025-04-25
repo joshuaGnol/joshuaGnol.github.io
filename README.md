@@ -3,11 +3,7 @@
 - Email: jjlongts19@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/joshua-long-/](https://www.linkedin.com/in/joshua-long-/)
 - Availability: 2 Month’s Notice Period
-
 - [📄 Download My Resume]({{ site.baseurl }}/assets/resume.pdf){: download}
-
-
-
 
 ## Job Objective: Senior Software Developer (Frontend)
 
@@ -31,12 +27,12 @@
 
 ### Work Experience: 💼
 #### December 2023 - Present : Senior Software Engineer, (_Tranglo Sdn Bhd_)
-- **Web Developer for Fintech Systems**: Experience in developing fintech applications, including onboarding, e-KYC, wallets, payment, forex, fees, transfers etc.
+- **🌐 Web Developer for Fintech Systems**: Experience in developing fintech applications, including onboarding, e-KYC, wallets, payment, forex, fees, transfers etc.
 - **Frontend Team Management**: Manage the frontend team by planning sprints, delegating tasks based on team members' strengths and skills, mentoring junior developers, and conducting code reviews.
 - **Coding Standards & Best Practices**: Enforce coding standards, best practices, and maintain code quality by introducing taxonomy, shareable components, styling guidelines, and Storybook for UI consistency.
 - **Cross-Team Collaboration**: Work closely with backend developers, UX/UI designers, product managers, and users to align goals and requirements for each sprint.
 - **Frontend Support & Maintenance**: Provide key support for frontend bug fixes, troubleshooting, and release management.
-- **Android Development**: Single-handedly manage the end-to-end Android mobile project, including new change requests (CRs), version upgrades, and app releases.
+- **📱 Android Development**: Single-handedly manage the end-to-end Android mobile project, including new change requests (CRs), version upgrades, and app releases.
 
 #### December 2019 - December 2023: Professional Software Engineer, (*Comerge Solutions Sdn Bhd*)
 - Web & hybrid Developer: A multi-feature workforce app developed with Angular, supporting web, iOS, and Android.
@@ -70,7 +66,7 @@
 - Managed the Android app updates, ensuring compatibility with the latest Android SDK version.
 - Updated the system in compliance with Google Play Store requirements, ensuring timely releases of new versions.
 
-#### :globe_with_meridians: :iphone: Swiss Connect Academy [https://sca.online/](https://sca.online/) , [https://play.google.com/store/apps/details?id=ch.ab4c.sma](https://play.google.com/store/apps/details?id=ch.ab4c.sma)
+#### 🌐 📱 Swiss Connect Academy [https://sca.online/](https://sca.online/) , [https://play.google.com/store/apps/details?id=ch.ab4c.sma](https://play.google.com/store/apps/details?id=ch.ab4c.sma)
 - Developed web applications using Angular framework, leveraging its component-based architecture and features with SCAM.
 - Features included Newsfeed, Streams, Coaching, e-Learning, instant messaging.
 - Experienced in both Native Android app development and transitioning to hybrid development using CapacitorJS with Angular codebase.
@@ -78,7 +74,7 @@
 - Proficient in web development using Angular and actively involved in migrating from AngularJS to the latest version.
 - Involved in supporting Internet Explorer through the use of polyfills until they become obsolete while also staying up-to-date with the latest versions of Angular and Capacitor.
 
-#### :globe_with_meridians: 📱 MPOS system
+#### 🌐 📱 MPOS system
 - Developed using AngularJS with Cordova framework adopting IBM MobileFirst Environment.
 - MPOS system for Malaysia (GELM), Singapore (GELS), and Indonesia (GELI).
 - Application for life planner to create and generate proposals, quotations, fact-finding, financial graphs, financial life plans, and customer management.
@@ -107,7 +103,7 @@
   -MVP architecture and design.
 - Offering a wide range of messaging functions to send text, images, emojis, voice, share location and contact to friends, groups, and broadcast with encryption.
 
-### Education: :school:
+### Education: 🏫
 - Multimedia University (MMU) Malaysia
     - 2012 - 2015: Degree: Bachelor IT (Honours) Security Technology (CGPA: 3.21)
     - 2011 - 2012: Foundation: Foundation in Information Technology
