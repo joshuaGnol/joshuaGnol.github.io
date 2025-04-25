@@ -1,22 +1,19 @@
-<p align="center">
-  <img src="image.jpeg" alt="Profile Picture" style="width:230px;height:230px;">
-</p>
 
-# :technologist: Joshua Long Tian Sheng :technologist:
+
 - Email: jjlongts19@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/joshua-long-/](https://www.linkedin.com/in/joshua-long-/)
 - Availability: 2 Month’s Notice Period
 
 ## Job Objective: Senior Software Developer (Frontend)
 
-### Summary of Job Qualification: :desktop_computer:
+### Summary of Job Qualification: 🖥️
 - 10+ years of software development in frontend development with **web**, **hybrid** framework and native **Android** mobile.
 - **Team management** experience, including overseeing project timelines, sprint planning, mentoring team members, and promoting code reusability to improve efficiency and maintainability.
 - Hands-on experience in **backend** development with Java Apache Tomcat.
 - Involved in automating the build processes **CI/CD** using tools like AppCenter, Fastlane, Atlassian Bamboo, and Gitlab CI to streamline development and deployment workflows.
 - Facilitating a wide range of solutions from POC, fintech, workforce collaborator system, mobile banking, insurance, e-commerce to instant messaging application.
 
-### Skills: :hammer_and_wrench:
+### Skills: 🛠️
 - **Languages**: Typescript, JavaScript, Java, C#, Kotlin
 - **Framework**: Angular, CapacitorJS, Jasmine, Android SDK, VR@Unity, Vue.js, AngularJS, Cordova MobileFirst
 - **Libraries**: RxJs, NgRx, Tailwind.css, Material design, fastlane, Swagger, Vuex, Storybook
@@ -27,7 +24,7 @@
 - **VCS**: Gitlab, bitbucket, Github, Sourcetree, CLI, JTrac, Redmine
 - **Others**: NpmJs, HTML, SCSS, Gradle, maven, Polyfill, Apache Ant, Firebase, JSP, JSTL, Tomcat, XMPP, Openfire
 
-### Work Experience: :briefcase:
+### Work Experience: 💼
 #### December 2023 - Present : Senior Software Engineer, (_Tranglo Sdn Bhd_)
 - **Web Developer for Fintech Systems**: Experience in developing fintech applications, including onboarding, e-KYC, wallets, payment, forex, fees, transfers etc.
 - **Frontend Team Management**: Manage the frontend team by planning sprints, delegating tasks based on team members' strengths and skills, mentoring junior developers, and conducting code reviews.
@@ -54,7 +51,7 @@
 - Involve in backend web service implementation and design.
 - Technical sharing on Android and Android SDK.
 
-### Portfolio: :open_file_folder:
+### Portfolio: 📂
 #### 🌐 T1 System
 - Developed and maintained a cross-border fintech platform (B2B & B2C) supporting remittances, payments, transfers, forex, and fees.
 - Revamped legacy systems to the T1 platform, delivering a modern, scalable solution for admin and customer-facing portals.
@@ -76,18 +73,18 @@
 - Proficient in web development using Angular and actively involved in migrating from AngularJS to the latest version.
 - Involved in supporting Internet Explorer through the use of polyfills until they become obsolete while also staying up-to-date with the latest versions of Angular and Capacitor.
 
-#### :globe_with_meridians: :iphone: MPOS system
+#### :globe_with_meridians: 📱 MPOS system
 - Developed using AngularJS with Cordova framework adopting IBM MobileFirst Environment.
 - MPOS system for Malaysia (GELM), Singapore (GELS), and Indonesia (GELI).
 - Application for life planner to create and generate proposals, quotations, fact-finding, financial graphs, financial life plans, and customer management.
 
-#### :iphone: OCBC NISP (Indonesia)
+#### 📱 OCBC NISP (Indonesia)
 - Developed using Native Android (Java).
 - Revamped existing mobile banking solution with updated material design UI/UX.
 - Building as an AAR lib to consume by the application.
 - End-to-end onsite development, SIT, UAT, production, and client support.
 
-#### :iphone: Handheld
+#### 📱 Handheld
 - Developed using Native Android (Java).
 - Integrated with Bluebird mobile computer hardware to scan barcodes.
 - Batch update of data using .dat files and store to local database with SQLite.
@@ -95,12 +92,12 @@
 - Stock tracking system by barcode scanning.
 - Gondola shelf data retrieving and data displaying.
   
-#### :iphone: Custlr: [https://play.google.com/store/apps/details?id=com.custlr.app](https://play.google.com/store/apps/details?id=com.custlr.app)
+#### 📱 Custlr: [https://play.google.com/store/apps/details?id=com.custlr.app](https://play.google.com/store/apps/details?id=com.custlr.app)
 - Developed using Native Android (Java).
 - Creating CMS system, backend webservice with Java, set up email server.
 - Integrated with payment gateway, social media login API.
 
-#### :iphone: Hi-hive: [https://play.google.com/store/apps/details?id=com.slc.hihive.community](https://play.google.com/store/apps/details?id=com.slc.hihive.community)
+#### 📱 Hi-hive: [https://play.google.com/store/apps/details?id=com.slc.hihive.community](https://play.google.com/store/apps/details?id=com.slc.hihive.community)
 - Developed using Native Android (Java), Openfire XMPP server for instant messaging.
   -MVP architecture and design.
 - Offering a wide range of messaging functions to send text, images, emojis, voice, share location and contact to friends, groups, and broadcast with encryption.
@@ -110,7 +107,7 @@
     - 2012 - 2015: Degree: Bachelor IT (Honours) Security Technology (CGPA: 3.21)
     - 2011 - 2012: Foundation: Foundation in Information Technology
 
-### Communication Skills / Language:  :speaking_head:
+### Communication Skills / Language:  🗣️
 - **English** – Proficient: 4/5
 - **Chinese** - Proficient: 4/5
 - **Malay** – Intermediate: 3/5
