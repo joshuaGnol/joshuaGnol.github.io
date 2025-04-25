@@ -5,11 +5,9 @@ plugins:
 title: Joshua Long
 email: jjlongts19@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  About me
+  10+ years of software development in frontend development with web, hybrid framework and native Android mobile.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://joshuagnol.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Logo configuration
 logo: /assets/images/image.jpeg
 
 show_downloads: [true]
