@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://joshuagnol.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/images/image.jpeg
 
-google_analytics: [Your Google Analytics tracking ID]
+google_analytics: G-NMY0F4WPST
 
 # Build settings
 
