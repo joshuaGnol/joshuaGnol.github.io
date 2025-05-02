@@ -6,15 +6,11 @@ plugins:
 title: Joshua Long
 email: jjlongts19@gmail.com
 description: Senior Software Developer (Frontend)
-baseurl: "" # the subpath of your site, e.g. /blog
+google_analytics: G-NMY0F4WPST
 url: "https://joshuagnol.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/images/image.jpeg
 
-# Analytics configuration
-analytics:
-  provider: google
-  google:
-    tracking_id: G-NMY0F4WPST
+
 
 # Build settings
 
@@ -23,7 +19,6 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-analytics
 
 # Exclude from processing
 exclude:
