@@ -16,7 +16,7 @@
 
 ### Skills: 🛠️
 - **Languages**: Typescript, JavaScript, Java, C#, Kotlin
-- **Framework**: Angular, CapacitorJS, Jasmine, Android SDK, VR@Unity, Vue.js, AngularJS, Cordova MobileFirst
+- **Framework**: Angular, CapacitorJS, Jasmine, Android SDK, VR@Unity, Vue.js, AngularJS, Cordova MobileFirst, Spring Boot
 - **Libraries**: RxJs, NgRx, Tailwind.css, Material design, fastlane, Swagger, Vuex, Storybook
 - **Database**: SQLite, mySQL
 - **Tools**: JIRA, Confluence, Trello, Basecamp, Notion
@@ -49,8 +49,7 @@
 - Developed mobile banking system for banking and financial service provider in Indonesia; E-commerce, Chat apps, functional apps.
 - Full End-to-End development lifecycle.
 - Upload and release App with Developer Console.
-- Involve in backend web service implementation and design.
-- Technical sharing on Android and Android SDK.
+- Involve in backend web service implementation and design with Java Spring Boot.
 
 ### Portfolio: 📂
 #### 🌐 T1 System
