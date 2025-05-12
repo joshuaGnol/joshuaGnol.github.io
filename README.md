@@ -59,7 +59,7 @@
 - Contributed to the migration from the old system to the new platform, ensuring minimal downtime and smooth transition.
 - Managed a team of developers, providing mentorship, conducting code reviews, and ensuring adherence to best practices.
 
-#### 📱 TikFX - https://www.tikfx.com/ 
+#### 📱 TikFX - [tikfx.com](https://www.tikfx.com/) 
 - Single-handedly supported and maintained the Forex and money transfer system, ensuring continued functionality until system sunset.
 - Implemented change requests (CR), troubleshooting, and enhancements for system performance.
 - Managed the Android app updates, ensuring compatibility with the latest Android SDK version.
