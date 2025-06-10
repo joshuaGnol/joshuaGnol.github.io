@@ -8,7 +8,7 @@
 ## Job Objective: Senior Software Developer (Frontend)
 
 ### Summary of Job Qualification: 🖥️
-- 10+ years of software development in **frontend** development with **web**, **hybrid** framework and native **Android** mobile.
+- Background in software development across frontend technologies such as **web**, **hybrid** frameworks, and **native** Android mobile.
 - **Team management** experience, including overseeing project timelines, sprint planning, mentoring team members, and promoting code reusability to improve efficiency and maintainability.
 - Hands-on experience in **backend** development with Java Apache Tomcat.
 - Involved in automating the build processes **CI/CD** using tools like AppCenter, Fastlane, Atlassian Bamboo, and Gitlab CI to streamline development and deployment workflows.
