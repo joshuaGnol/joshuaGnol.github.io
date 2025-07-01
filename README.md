@@ -4,6 +4,7 @@
 - LinkedIn: [https://www.linkedin.com/in/joshua-long-/](https://www.linkedin.com/in/joshua-long-/)
 - Availability: 2 Month’s Notice Period
 - [📄 Download My Resume]({{ site.baseurl }}/assets/resume.pdf){: download}
+- 📱Drop me a message [here](https://wa.me/60167971535)
 
 ## Job Objective: Senior Software Developer (Frontend)
 
