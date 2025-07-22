@@ -17,7 +17,7 @@
 
 ### Skills: 🛠️
 - **Languages**: Typescript, JavaScript, Java, C#, Kotlin
-- **Framework**: Angular, CapacitorJS, Jasmine, Android SDK, VR@Unity, Vue.js, AngularJS, Cordova MobileFirst, Spring Boot
+- **Framework**: Angular, CapacitorJS, ReactJS, Android SDK, VR@Unity, Vue.js, AngularJS, Cordova MobileFirst, Spring Boot , Jasmine
 - **Libraries**: RxJs, NgRx, Tailwind.css, Material design, fastlane, Swagger, Vuex, Storybook
 - **Database**: SQLite, mySQL
 - **Tools**: JIRA, Confluence, Trello, Basecamp, Notion
@@ -51,6 +51,13 @@
 - Full End-to-End development lifecycle.
 - Upload and release App with Developer Console.
 - Involve in backend web service implementation and design with Java Spring Boot.
+
+### Certification and Course
+#### 📖 React 18 Course 2025 - Learn React JS the fast way
+- Mastered React 18 through fast-paced, hands-on development of interactive user experiences.
+- Platform : Udemy
+- Live demo: https://react-moviedux-37mnbl25e-joshuagnols-projects.vercel.app/
+
 
 ### Portfolio: 📂
 #### 🌐 T1 System
