@@ -56,7 +56,7 @@
 #### 📖 React 18 Course 2025 - Learn React JS the fast way
 - Mastered React 18 through fast-paced, hands-on development of interactive user experiences.
 - Platform : Udemy
-- Live demo: https://react-moviedux-37mnbl25e-joshuagnols-projects.vercel.app/
+- Live demo: [https://react-moviedux-37mnbl25e-joshuagnols-projects.vercel.app/](https://react-moviedux-37mnbl25e-joshuagnols-projects.vercel.app/)
 
 
 ### Portfolio: 📂
