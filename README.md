@@ -1,7 +1,7 @@
 - Email: jjlongts19@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/joshua-long-/](https://www.linkedin.com/in/joshua-long-/)
 - Availability: 2 Month’s Notice Period
-- [📄 Download My Resume]({{ site.baseurl }}/assets/resume.pdf){: download}
+- [📄 Download My Resume]({{ site.baseurl }}/assets/resume.pdf){: download target="_blank" rel="noopener"}
 - 📱Drop me a message [here](https://wa.me/60167971535)
 
 ## Job Objective: Senior Software Developer (Frontend)
@@ -49,8 +49,8 @@
 
 - Mobile Developer on Hybrid platform (AngularJS, Vue.js, JavaScript).
 - Developed MPOS system used by life planner for one of the leading Asia insurance industry.
-- Awarded team excellence award for outstanding project delivery & performance [Certificate]({{ site.baseurl }}/assets/team_award.jpg){: download}
-
+- Awarded [team excellence award]({{ site.baseurl }}/assets/team_award.jpg){: download target="_blank" rel="noopener"}
+ for outstanding project delivery & performance
 #### July 2015 - June 2018: Software Engineer, (_Silverlake Mobility Ecosystem Sdn Bhd_)
 
 - Native Developer on Android.
@@ -64,8 +64,8 @@
 #### 📖 React 18 Course 2025 - Learn React JS the fast way
 
 - Mastered React 18 through fast-paced, hands-on development of interactive user experiences. - Advanced React development including hooks, context, routing, and modern React patterns
-- [Cert](https://www.udemy.com/certificate/UC-021ef104-1c76-433f-848e-756fe98437e6/)
-- Live demo: [https://react-moviedux-jos.vercel.app/](https://react-moviedux-37mnbl25e-joshuagnols-projects.vercel.app/)
+- [Complete Certificate](https://www.udemy.com/certificate/UC-021ef104-1c76-433f-848e-756fe98437e6/){: download target="_blank" rel="noopener"}
+- Live demo: [https://react-moviedux-jos.vercel.app/](https://react-moviedux-37mnbl25e-joshuagnols-projects.vercel.app/){: download target="_blank" rel="noopener"}
 
 ### Portfolio: 📂
 
@@ -138,5 +138,6 @@
 - **English** – Proficient: 4/5
 - **Chinese** - Proficient: 4/5
 - **Malay** – Intermediate: 3/5
+
 
 
