@@ -16,6 +16,8 @@
 - Involved in automating the build processes **CI/CD** using tools like Jenkins, AppCenter, Fastlane, Atlassian Bamboo, and Gitlab CI to streamline development and deployment workflows.
 - Facilitating a wide range of solutions from POC, fintech, workforce collaborator system, mobile banking, insurance, e-commerce to instant messaging application.
 
+</div>
+
 ### Skills: 🛠️
 
 - **Languages**: Typescript, JavaScript, Java, C#, Kotlin
