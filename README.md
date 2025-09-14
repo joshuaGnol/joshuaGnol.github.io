@@ -8,15 +8,11 @@
 
 ### Summary of Job Qualification: 🖥️
 
-<div style="text-align: justify;">
-
 - Background in software development across frontend technologies such as **web**, **hybrid** frameworks, and **native** Android mobile.
 - **Team management** experience, including overseeing project timelines, sprint planning, mentoring team members, and promoting code reusability to improve efficiency and maintainability.
 - Hands-on experience in **backend** development with Java Apache Tomcat.
 - Involved in automating the build processes **CI/CD** using tools like Jenkins, AppCenter, Fastlane, Atlassian Bamboo, and Gitlab CI to streamline development and deployment workflows.
 - Facilitating a wide range of solutions from POC, fintech, workforce collaborator system, mobile banking, insurance, e-commerce to instant messaging application.
-
-</div>
 
 ### Skills: 🛠️
 
