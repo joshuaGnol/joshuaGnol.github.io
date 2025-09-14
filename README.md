@@ -117,14 +117,14 @@
 - Stock tracking system by barcode scanning.
 - Gondola shelf data retrieving and data displaying.
 
-#### 📱 Custlr:
+#### 📱 Custlr
 
 - Developed using Native Android (Java) for custom-sized shirt retail platform.
 - Contributed to startup that secured investor funding for retail innovation
 - Implemented e-commerce features: product customization, sizing tools, order management, and payment integration, social media API
 - Creating CMS system, backend webservice with Java, set up email server.
 
-#### 📱 Hi-hive: [https://play.google.com/store/apps/details?id=com.slc.hihive.community](https://play.google.com/store/apps/details?id=com.slc.hihive.community)
+#### 📱 [Hi-hive](https://play.google.com/store/apps/details?id=com.slc.hihive.community){: download target="\_blank" rel="noopener"}
 
 - Developed using Native Android (Java), Openfire XMPP server for instant messaging.
   -MVP architecture and design.
