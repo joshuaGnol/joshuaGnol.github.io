@@ -49,7 +49,7 @@
 
 - Mobile Developer on Hybrid platform (AngularJS, Vue.js, JavaScript).
 - Developed MPOS system used by life planner for one of the leading Asia insurance industry.
-- Awarded team excellence award for outstanding project delivery & performance [Certificate]- ({{ site.baseurl }}/assets/team_award.jpg){: download}
+- Awarded team excellence award for outstanding project delivery & performance [Certificate]({{ site.baseurl }}/assets/team_award.jpg){: download}
 
 #### July 2015 - June 2018: Software Engineer, (_Silverlake Mobility Ecosystem Sdn Bhd_)
 
@@ -138,4 +138,5 @@
 - **English** – Proficient: 4/5
 - **Chinese** - Proficient: 4/5
 - **Malay** – Intermediate: 3/5
+
 
