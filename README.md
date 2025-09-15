@@ -1,3 +1,5 @@
+<link href="{{ 'assets/css/style.css' | relative_url }}" rel="stylesheet">
+
 - Email: jjlongts19@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/joshua-long-/](https://www.linkedin.com/in/joshua-long-/)
 - Availability: 2 Month’s Notice Period
@@ -8,12 +10,13 @@
 
 ### Summary of Job Qualification: 🖥️
 
+<div class="justify">
 - Background in software development across frontend technologies such as **web**, **hybrid** frameworks, and **native** Android mobile.
 - **Team management** experience, including overseeing project timelines, sprint planning, mentoring team members, and promoting code reusability to improve efficiency and maintainability.
 - Hands-on experience in **backend** development with Java Apache Tomcat.
 - Involved in automating the build processes **CI/CD** using tools like Jenkins, AppCenter, Fastlane, Atlassian Bamboo, and Gitlab CI to streamline development and deployment workflows.
 - Facilitating a wide range of solutions from POC, fintech, workforce collaborator system, mobile banking, insurance, e-commerce to instant messaging application.
-
+</div>
 ### Skills: 🛠️
 
 - **Languages**: Typescript, JavaScript, Java, C#, Kotlin
@@ -141,3 +144,4 @@
 - **English** – Proficient: 4/5
 - **Chinese** - Proficient: 4/5
 - **Malay** – Intermediate: 3/5
+
