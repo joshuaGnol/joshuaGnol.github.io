@@ -17,14 +17,13 @@
 ### Skills: 🛠️
 
 - **Languages**: Typescript, JavaScript, Java, C#, Kotlin
-- **Framework**: Angular, CapacitorJS, ReactJS, Android SDK, VR@Unity, Vue.js, AngularJS, Cordova MobileFirst, Spring Boot , Jasmine
-- **Libraries**: RxJs, NgRx, Tailwind.css, Material design, fastlane, Swagger, Vuex, Storybook
+- **Framework**: Angular(14-19), CapacitorJS, ReactJS, Android SDK, VR@Unity, Vue.js, AngularJS, Cordova MobileFirst, Spring Boot , Jasmine
+- **Libraries**: RxJS, NgRx, Tailwind CSS, Bootstrap, Material design, Storybook, Vuex
 - **Database**: SQLite, mySQL
-- **Tools**: GitHub Copilot, Cursor AI, JIRA, Confluence, Trello, Basecamp, Notion
-- **IDE**: Webstorm, Android studio, VSC
-- **Integration**: Jenkin, Octopus Deploy, Gitlab CI, Atlassian Bamboo
-- **VCS**: Gitea, Gitlab, bitbucket, Github, Sourcetree, CLI, JTrac, Redmine
-- **Others**: NpmJs, HTML, SCSS, Gradle, maven, Polyfill, Apache Ant, Firebase, JSP, JSTL, Tomcat, XMPP, Openfire
+- **Dev Tools**: GitLab CI, Jenkins, Octopus Deploy, Atlansion Bamboo, Fastlane, Firebase
+- **AI Tools**: Claude, GitHub Copilot, Cursor AI
+- **IDE & VSC**: WebStorm, VSCode, Android Studio, Gitea, GitLab, Bitbucket, GitHub, Sourcetree, JTrac, Redmine
+- **Others**: Swagger, HTML, SCSS, Gradle, Maven, JSP, JSTL, XMPP, Openfire
 
 ### Work Experience: 💼
 
