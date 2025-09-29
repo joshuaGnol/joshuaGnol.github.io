@@ -17,8 +17,8 @@
 ### Skills: 🛠️
 
 - **Languages**: Typescript, JavaScript, Java, C#, Kotlin
-- **Framework**: Angular(14-19), CapacitorJS, ReactJS, Android SDK, VR@Unity, Vue.js, AngularJS, Cordova MobileFirst, Spring Boot , Jasmine
-- **Libraries**: RxJS, NgRx, Tailwind CSS, Bootstrap, Material design, Storybook, Vuex
+- **Framework**: Angular(14-20), CapacitorJS, ReactJS, Android SDK, VR@Unity, Vue.js, AngularJS, Cordova MobileFirst, Spring Boot , Jasmine
+- **Libraries**: Nx monorepo, RxJS, NgRx, Tailwind CSS, Bootstrap, Material design, Storybook, Vuex
 - **Database**: SQLite, mySQL
 - **Dev Tools**: GitLab CI, Jenkins, Octopus Deploy, Atlansion Bamboo, Fastlane, Firebase
 - **AI Tools**: Claude, GitHub Copilot, Cursor AI
@@ -30,7 +30,7 @@
 #### December 2023 - Present : Senior Software Engineer, ([_Tranglo Sdn Bhd_](https://www.tranglo.com/){: download target="\_blank" rel="noopener"})
 
 - **🌐 Web Developer for Fintech Systems**: Developed and maintained fintech solutions for cross-border platforms (B2B/B2C) supporting remittance, payments, e-KYC, wallets, transfers, forex, and fees.
-- **Revamped** legacy systems to the new T1 platform for admin and customer portals using **Angular 19**, leveraging Standalone components, Signals, and Effects.
+- **Revamped** legacy systems to the new T1 platform for admin and customer portals using **Angular 20**, leveraging Standalone components, Signals, and Effects.
 - **Frontend Team Management**: Managed team of frontend developers by planning sprints, aligning tasks with team members' strengths, mentoring junior developers, and maintaining code quality through reviews and shared component standards.
 - **Component Library & Design System**: Developed sharable component library and established a design system taxonomy. Utilized **Storybook** to drive team collaboration and documentation, resulting in consistent UI and **reduced development time** across projects.
 - **Cross-Team Collaboration**: Collaborated with product managers, UI/UX designers, and backend engineers to align sprint goals, analyse backlog and propose a simplified user flow, reducing validation complexity and development effort, **accelerated delivery** by **50%**, and enhanced user satisfaction.
@@ -74,7 +74,7 @@
 
 - Developed and maintained a cross-border fintech platform (B2B & B2C) supporting remittances, payments, transfers, forex, and fees.
 - Revamped legacy systems to the T1 platform, delivering a modern, scalable solution for admin and customer-facing portals.
-- Built the web application using the latest Angular 19, incorporating standalone components, signals, and effects for optimal performance and flexibility.
+- Built the web application using the latest Angular 20, incorporating standalone components, signals, and effects for optimal performance and flexibility.
 - Contributed to the migration from the old system to the new platform, ensuring minimal downtime and smooth transition.
 - Managed a team of developers, providing mentorship, conducting code reviews, and ensuring adherence to best practices.
 
