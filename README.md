@@ -85,7 +85,7 @@
 - Managed the Android app updates, ensuring compatibility with the latest Android SDK version.
 - Updated the system in compliance with Google Play Store requirements, ensuring timely releases of new versions.
 
-#### 🌐 📱 [Swiss Connect Academy](https://www.connectsolutions.ch/){: download target="\_blank" rel="noopener"}
+#### 🌐 📱 [Swiss Connect Academy](https://brandbuch.com/work/swiss-connect-academy){: download target="\_blank" rel="noopener"}
 
 - Developed web applications using Angular framework, leveraging its component-based architecture and features with SCAM.
 - Features included Newsfeed, Streams, Coaching, e-Learning, instant messaging.
