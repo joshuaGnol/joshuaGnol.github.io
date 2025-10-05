@@ -1,6 +1,6 @@
 - Email: jjlongts19@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/joshua-long-/](https://www.linkedin.com/in/joshua-long-/)
-- Availability: 2 Month’s Notice Period
+- Availability: 2 Months' Notice Period
 - [📄 Download My Resume]({{ site.baseurl }}/assets/resume.pdf){: download target="\_blank" rel="noopener"}
 - 📱Drop me a message [here](https://wa.me/60167971535)
 
@@ -17,7 +17,7 @@
 ### Skills: 🛠️
 
 - **Languages**: Typescript, JavaScript, Java, C#, Kotlin
-- **Framework**: Angular(14-20), CapacitorJS, ReactJS, Android SDK, VR@Unity, Vue.js, AngularJS, Cordova MobileFirst, Spring Boot , Jasmine
+- **Framework**: Angular(14-20), CapacitorJS, ReactJS, Android SDK, Unity(VR), Vue.js, AngularJS, Cordova MobileFirst, Spring Boot , Jasmine
 - **Libraries**: Nx monorepo, RxJS, NgRx, Tailwind CSS, Bootstrap, Material design, Storybook, Vuex
 - **Database**: SQLite, mySQL
 - **Dev Tools**: GitLab CI, Jenkins, Octopus Deploy, Atlansion Bamboo, Fastlane, Firebase
@@ -126,7 +126,7 @@
 #### 📱 [Hi-hive](https://play.google.com/store/apps/details?id=com.slc.hihive.community){: download target="\_blank" rel="noopener"}
 
 - Developed using Native Android (Java), Openfire XMPP server for instant messaging.
-  -MVP architecture and design.
+- MVP architecture and design.
 - Offering a wide range of messaging functions to send text, images, emojis, voice, share location and contact to friends, groups, and broadcast with encryption.
 
 ### Education: 🏫
